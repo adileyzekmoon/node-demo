@@ -6,7 +6,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "jshint sever.js"
+    "test": "jshint server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
